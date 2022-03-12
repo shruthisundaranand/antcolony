@@ -63,7 +63,7 @@
 
 #define OMP_N_THREADS  num_threads(num_threads)
 
-#Define MAX(a, b) ((a) > (b) ? (a) : (b))
+#define MAX(a, b) ((a) > (b) ? (a) : (b))
 #define MIN(a, b) ((a) < (b) ? (a) : (b))
 #define CEILING(X) (X-(int)(X) > 0 ? (int)(X+1) : (int)(X))
 
