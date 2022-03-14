@@ -1,3 +1,4 @@
+import sys, string, os
 import subprocess
 from pyswarm import pso
 import pants
